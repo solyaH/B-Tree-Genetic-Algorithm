@@ -1,0 +1,10 @@
+D:\4 курс\Генетичні алгоритми\Interpolation\Interpolation\bin\Debug\Interpolation.exe.config
+D:\4 курс\Генетичні алгоритми\Interpolation\Interpolation\bin\Debug\Interpolation.exe
+D:\4 курс\Генетичні алгоритми\Interpolation\Interpolation\bin\Debug\Interpolation.pdb
+D:\4 курс\Генетичні алгоритми\Interpolation\Interpolation\obj\Debug\Interpolation.csprojResolveAssemblyReference.cache
+D:\4 курс\Генетичні алгоритми\Interpolation\Interpolation\obj\Debug\Interpolation.Form1.resources
+D:\4 курс\Генетичні алгоритми\Interpolation\Interpolation\obj\Debug\Interpolation.Properties.Resources.resources
+D:\4 курс\Генетичні алгоритми\Interpolation\Interpolation\obj\Debug\Interpolation.csproj.GenerateResource.cache
+D:\4 курс\Генетичні алгоритми\Interpolation\Interpolation\obj\Debug\Interpolation.csproj.CoreCompileInputs.cache
+D:\4 курс\Генетичні алгоритми\Interpolation\Interpolation\obj\Debug\Interpolation.exe
+D:\4 курс\Генетичні алгоритми\Interpolation\Interpolation\obj\Debug\Interpolation.pdb
